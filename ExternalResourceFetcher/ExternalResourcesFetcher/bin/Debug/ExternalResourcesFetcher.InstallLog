@@ -1,0 +1,47 @@
+﻿Installing assembly 'C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.InstallLog
+   assemblypath = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe
+Installing service ResourceFetcher...
+Service ResourceFetcher has been successfully installed.
+Creating EventLog source ResourceFetcher in log Application...
+Committing assembly 'C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.InstallLog
+   assemblypath = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe
+Uninstalling assembly 'C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.InstallLog
+   assemblypath = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe
+Removing EventLog source ResourceFetcher.
+Service ResourceFetcher is being removed from the system...
+Service ResourceFetcher was successfully removed from the system.
+Installing assembly 'C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.InstallLog
+   assemblypath = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe
+Installing service ResourceFetcher...
+Creating EventLog source ResourceFetcher in log Application...
+Rolling back assembly 'C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.InstallLog
+   assemblypath = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe
+Restoring event log to previous state for source ResourceFetcher.
+Installing assembly 'C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.InstallLog
+   assemblypath = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe
+Installing service ResourceFetcher...
+Service ResourceFetcher has been successfully installed.
+Creating EventLog source ResourceFetcher in log Application...
+Committing assembly 'C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.InstallLog
+   assemblypath = C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\ExternalResourcesFetcher.exe

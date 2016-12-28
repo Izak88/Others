@@ -1,0 +1,7 @@
+2014-09-19 11:19:21.0984 : ResourceFetcher.SendMail Failed! 
+File C:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\bin\Debug\/logs/2014-09-19 11:19:21.0974.log.txt does not exist: ExternalResourcesFetcher
+
+-----
+   at ExternalResourcesFetcher.Utils.GetLogFileName(String targetName) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Utils.cs:line 105
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 118
+

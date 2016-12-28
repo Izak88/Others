@@ -1,0 +1,1 @@
+2014-09-19 11:09:20.5522 : Parsing from http://www.example.com/seznam.txt failed! 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserConfigurations>
+  <Time>09:35</Time>
+  <ResourceDirectory>C:\tmp\ZunanjiViri</ResourceDirectory>
+  <Retries>2</Retries>
+  <RetryTimeout>2</RetryTimeout>
+  <MaxArchiveFiles>2</MaxArchiveFiles>
+  <Smtp>smtp.telemach.net</Smtp>
+  <EmailFrom>info@analitica.si</EmailFrom>	
+  <EmailsTo>
+    <Email>izak.lipnik@analitica.si</Email>
+  </EmailsTo>
+  <Resources>
+    <Resource>
+      <UserName>ASZAV</UserName>
+      <Password>cenik1031</Password>
+      <Url>http://www.zzzs.si/ceniki/103143/seznam.txt</Url>
+      <Type>1</Type>
+    </Resource>
+    <Resource>
+      <Url>http://www.cbz.si/cbz2/sif22.csv</Url>
+    </Resource>
+  </Resources>
+</UserConfigurations>

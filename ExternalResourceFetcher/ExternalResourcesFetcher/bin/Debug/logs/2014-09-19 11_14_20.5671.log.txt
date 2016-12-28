@@ -1,0 +1,4 @@
+2014-09-19 11:14:20.5671 : Output folder deleted successfully.
+2014-09-19 11:14:20.5671 : Output folder created successfully.
+2014-09-19 11:14:20.5671 : Parsing from http://www.example.com/seznam.txt started.
+2014-09-19 11:14:20.5671 : Parsing from http://www.example.si/cbz2/seznam.csv started.

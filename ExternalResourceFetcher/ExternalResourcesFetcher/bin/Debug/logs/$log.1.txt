@@ -1,0 +1,22 @@
+2014-09-19 11:59:47.7113 : Service started successfully.
+2014-09-19 11:59:47.7113 : Output folder deleted successfully.
+2014-09-19 11:59:47.7113 : Output folder created successfully.
+2014-09-19 11:59:47.7113 : Parsing from http://www.example.com/seznam.txt started.
+2014-09-19 11:59:47.7113 : Parsing from http://www.example.si/cbz2/seznam.csv started.
+2014-09-19 11:59:47.7233 : Parsing from http://www.example.si/cbz2/seznam.csv failed! 
+2014-09-19 11:59:48.1031 : Parsing from http://www.example.com/seznam.txt failed! 
+2014-09-19 11:59:48.1031 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.example.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 90
+
+2014-09-19 11:59:48.1132 : Service will retry in 5 minutes

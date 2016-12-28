@@ -1,0 +1,5 @@
+2014-09-19 11:19:20.8318 : Service started successfully.
+2014-09-19 11:19:20.8318 : Output folder deleted successfully.
+2014-09-19 11:19:20.8318 : Output folder created successfully.
+2014-09-19 11:19:20.8318 : Parsing from http://www.example.com/seznam.txt started.
+2014-09-19 11:19:20.8318 : Parsing from http://www.example.si/cbz2/seznam.csv started.

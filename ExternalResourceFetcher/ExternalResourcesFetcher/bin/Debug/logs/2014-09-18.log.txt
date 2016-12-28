@@ -1,0 +1,297 @@
+2014-09-18 14:04:40.2872 : Service started successfully.
+2014-09-18 14:04:40.2932 : Output folder deleted successfully.
+2014-09-18 14:04:40.2932 : Output folder created successfully.
+2014-09-18 14:04:40.3072 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:04:40.3236 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Net.HttpWebRequest.GetResponse()
+   at ExternalResourcesFetcher.Job.Parse() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 45
+   at ExternalResourcesFetcher.Job.StartJob() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 27
+
+2014-09-18 14:04:40.3236 : ResourceFetcher.OnStart Failed!
+2014-09-18 14:32:43.1555 : Service started successfully.
+2014-09-18 14:32:43.1555 : Output folder deleted successfully.
+2014-09-18 14:32:43.1555 : Output folder created successfully.
+2014-09-18 14:32:43.1745 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:32:43.1936 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Net.HttpWebRequest.GetResponse()
+   at ExternalResourcesFetcher.Job.Parse() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 45
+   at ExternalResourcesFetcher.Job.StartJob() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 27
+
+2014-09-18 14:32:43.1936 : ResourceFetcher.OnStart Failed!
+2014-09-18 14:32:43.1936 : Service will retry in 2 minutes
+2014-09-18 14:34:43.1983 : Service started successfully.
+2014-09-18 14:34:43.2013 : Output folder deleted successfully.
+2014-09-18 14:34:43.2013 : Output folder created successfully.
+2014-09-18 14:34:43.2013 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:34:43.2013 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Net.HttpWebRequest.GetResponse()
+   at ExternalResourcesFetcher.Job.Parse() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 45
+   at ExternalResourcesFetcher.Job.StartJob() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 27
+
+2014-09-18 14:34:43.2170 : ResourceFetcher.OnStart Failed!
+2014-09-18 14:34:43.2170 : Service will retry in 2 minutes
+2014-09-18 14:36:43.2235 : Service started successfully.
+2014-09-18 14:36:43.2235 : Output folder deleted successfully.
+2014-09-18 14:36:43.2315 : Output folder created successfully.
+2014-09-18 14:36:43.2315 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:36:43.2315 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Net.HttpWebRequest.GetResponse()
+   at ExternalResourcesFetcher.Job.Parse() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 45
+   at ExternalResourcesFetcher.Job.StartJob() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 27
+
+2014-09-18 14:36:43.2315 : ResourceFetcher.OnStart Failed!
+2014-09-18 14:36:43.2475 : Service will retry in 2 minutes
+2014-09-18 14:37:52.0280 : Service stopped successfully.
+2014-09-18 14:39:12.4366 : Service started successfully.
+2014-09-18 14:39:12.4366 : Output folder deleted successfully.
+2014-09-18 14:39:12.4506 : Output folder created successfully.
+2014-09-18 14:39:12.4506 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:39:12.4734 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Net.HttpWebRequest.GetResponse()
+   at ExternalResourcesFetcher.Job.Parse() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 45
+   at ExternalResourcesFetcher.Job.StartJob() in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\Job.cs:line 27
+
+2014-09-18 14:48:21.6211 : Service started successfully.
+2014-09-18 14:48:21.6211 : Output folder deleted successfully.
+2014-09-18 14:48:21.6341 : Output folder created successfully.
+2014-09-18 14:48:21.6341 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:48:21.6574 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 14:48:21.6574 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 14:48:21.6647 : Service will retry in 2 minutes
+2014-09-18 14:50:21.6675 : Service started successfully.
+2014-09-18 14:50:21.6675 : Output folder deleted successfully.
+2014-09-18 14:50:21.6675 : Output folder created successfully.
+2014-09-18 14:50:21.6795 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:50:21.6795 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 14:50:21.6795 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 14:50:21.6795 : Service will retry in 2 minutes
+2014-09-18 14:52:21.6997 : Service started successfully.
+2014-09-18 14:52:21.6997 : Output folder deleted successfully.
+2014-09-18 14:52:21.6997 : Output folder created successfully.
+2014-09-18 14:52:21.7118 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:52:21.7118 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 14:52:21.7118 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 14:52:21.7118 : Service will retry in 2 minutes
+2014-09-18 14:54:21.7277 : Service started successfully.
+2014-09-18 14:54:21.7277 : Output folder deleted successfully.
+2014-09-18 14:54:21.7277 : Output folder created successfully.
+2014-09-18 14:54:21.7277 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:54:21.7427 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 14:54:21.7427 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 14:58:21.3972 : Service started successfully.
+2014-09-18 14:58:21.3972 : Output folder deleted successfully.
+2014-09-18 14:58:21.4111 : Output folder created successfully.
+2014-09-18 14:58:21.4111 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 14:58:21.4323 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 14:58:21.4323 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 14:58:21.5709 : Service will retry in 2 minutes
+2014-09-18 15:00:21.5728 : Service started successfully.
+2014-09-18 15:00:21.5728 : Output folder deleted successfully.
+2014-09-18 15:00:21.5818 : Output folder created successfully.
+2014-09-18 15:00:21.5818 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 15:00:21.5818 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 15:00:21.5818 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 15:00:21.7563 : Service will retry in 2 minutes
+2014-09-18 15:02:21.7602 : Service started successfully.
+2014-09-18 15:02:21.7602 : Output folder deleted successfully.
+2014-09-18 15:02:21.7692 : Output folder created successfully.
+2014-09-18 15:02:21.7692 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 15:02:21.7692 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 15:02:21.7692 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 15:02:21.9371 : Service will retry in 2 minutes
+2014-09-18 15:04:21.9420 : Service started successfully.
+2014-09-18 15:04:21.9420 : Output folder deleted successfully.
+2014-09-18 15:04:21.9420 : Output folder created successfully.
+2014-09-18 15:04:21.9420 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt started.
+2014-09-18 15:04:21.9580 : Parsing from http://www.gwagv.si/ceniki/103143/seznam.txt failed! 
+2014-09-18 15:04:21.9580 : ResourceFetcher.OnStart Failed!One or more errors occurred.: mscorlib
+---
+  The remote name could not be resolved: 'www.gwagv.si': System
+
+-----
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IList`1 list, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
+   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)
+   at ExternalResourcesFetcher.ResourceFetcher.Run(Int32 p_RunNumber) in c:\Users\izakli\Documents\Projects\ExternalResourcesFetcher\ExternalResourcesFetcher\ResourceFetcher.cs:line 94
+
+2014-09-18 15:05:27.0139 : Service stopped successfully.
+2014-09-18 15:20:31.5010 : Service started successfully.
+2014-09-18 15:20:31.5160 : Output folder deleted successfully.
+2014-09-18 15:20:31.5282 : Output folder created successfully.
+2014-09-18 15:20:31.5282 : Parsing from http://www.zzzs.si/ceniki/103143/seznam.txt started.
+2014-09-18 15:20:31.5282 : Parsing from http://www.cbz.si/cbz2/sif22.csv started.
+2014-09-18 15:20:31.7566 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140820-103143-221672.zip started.
+2014-09-18 15:20:31.7921 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140820-103143-221672.zip ended successfully.
+2014-09-18 15:20:31.7961 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140820-103143-221676.zip started.
+2014-09-18 15:20:32.2462 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140820-103143-221676.zip ended successfully.
+2014-09-18 15:20:32.2462 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140821-103143-221884.zip started.
+2014-09-18 15:20:32.4434 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140821-103143-221884.zip ended successfully.
+2014-09-18 15:20:32.4434 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225856.zip started.
+2014-09-18 15:20:32.7877 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225856.zip ended successfully.
+2014-09-18 15:20:32.7877 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225860.zip started.
+2014-09-18 15:20:33.3368 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225860.zip ended successfully.
+2014-09-18 15:20:33.3408 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225864.zip started.
+2014-09-18 15:20:33.8553 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225864.zip ended successfully.
+2014-09-18 15:20:33.8573 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225868.zip started.
+2014-09-18 15:20:33.9882 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225868.zip ended successfully.
+2014-09-18 15:20:33.9882 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225872.zip started.
+2014-09-18 15:20:34.4733 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140901-103143-225872.zip ended successfully.
+2014-09-18 15:20:34.4733 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228698.zip started.
+2014-09-18 15:20:34.6426 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228698.zip ended successfully.
+2014-09-18 15:20:34.6426 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228702.zip started.
+2014-09-18 15:20:34.8296 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228702.zip ended successfully.
+2014-09-18 15:20:34.8296 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228706.zip started.
+2014-09-18 15:20:35.0449 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228706.zip ended successfully.
+2014-09-18 15:20:35.0449 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228710.zip started.
+2014-09-18 15:20:35.2436 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228710.zip ended successfully.
+2014-09-18 15:20:35.2436 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228714.zip started.
+2014-09-18 15:20:35.4368 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140905-103143-228714.zip ended successfully.
+2014-09-18 15:20:35.4368 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140916-103143-236734.zip started.
+2014-09-18 15:20:35.6336 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140916-103143-236734.zip ended successfully.
+2014-09-18 15:20:35.6336 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140916-103143-236738.zip started.
+2014-09-18 15:20:35.8247 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140916-103143-236738.zip ended successfully.
+2014-09-18 15:20:35.8247 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140916-103143-236742.zip started.
+2014-09-18 15:20:36.0258 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140916-103143-236742.zip ended successfully.
+2014-09-18 15:20:36.0278 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237447.zip started.
+2014-09-18 15:20:36.2202 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237447.zip ended successfully.
+2014-09-18 15:20:36.2202 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237451.zip started.
+2014-09-18 15:20:36.4145 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237451.zip ended successfully.
+2014-09-18 15:20:36.4145 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237455.zip started.
+2014-09-18 15:20:36.6001 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237455.zip ended successfully.
+2014-09-18 15:20:36.6001 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237459.zip started.
+2014-09-18 15:20:36.7953 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140917-103143-237459.zip ended successfully.
+2014-09-18 15:20:36.7953 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140918-103143-237851.zip started.
+2014-09-18 15:20:37.0156 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140918-103143-237851.zip ended successfully.
+2014-09-18 15:20:37.0156 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140918-103143-237855.zip started.
+2014-09-18 15:20:37.2199 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140918-103143-237855.zip ended successfully.
+2014-09-18 15:20:37.2199 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140918-103143-237859.zip started.
+2014-09-18 15:20:37.4218 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20140918-103143-237859.zip ended successfully.
+2014-09-18 15:20:37.4218 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140827-103143-225416.zip started.
+2014-09-18 15:20:38.3130 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140827-103143-225416.zip ended successfully.
+2014-09-18 15:20:38.3130 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228090.zip started.
+2014-09-18 15:20:38.4481 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228090.zip ended successfully.
+2014-09-18 15:20:38.4521 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228094.zip started.
+2014-09-18 15:20:38.6030 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228094.zip ended successfully.
+2014-09-18 15:20:38.6060 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228098.zip started.
+2014-09-18 15:20:38.7527 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228098.zip ended successfully.
+2014-09-18 15:20:38.7527 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228102.zip started.
+2014-09-18 15:20:38.9202 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228102.zip ended successfully.
+2014-09-18 15:20:38.9202 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228106.zip started.
+2014-09-18 15:20:39.1142 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228106.zip ended successfully.
+2014-09-18 15:20:39.1142 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228110.zip started.
+2014-09-18 15:20:39.3095 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228110.zip ended successfully.
+2014-09-18 15:20:39.3095 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228114.zip started.
+2014-09-18 15:20:39.5098 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228114.zip ended successfully.
+2014-09-18 15:20:39.5148 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228118.zip started.
+2014-09-18 15:20:39.7034 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228118.zip ended successfully.
+2014-09-18 15:20:39.7034 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228122.zip started.
+2014-09-18 15:20:39.9011 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20140904-103143-228122.zip ended successfully.
+2014-09-18 15:20:39.9051 : Parsing from http://www.zzzs.si/ceniki/103143/ ended successfully.
+2014-09-18 15:20:40.8344 : Parsing from http://www.cbz.si/cbz2/sif22.csv ended successfully.
+2014-09-18 15:20:40.8344 : All jobs executed successfully.
+2014-09-18 15:25:24.1907 : Service stopped successfully.

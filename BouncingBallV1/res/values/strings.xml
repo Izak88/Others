@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Bounce</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Bounce</string>
+    <string name="buttonNewGame">New game</string>
+		<string name="buttonEndGame">Exit</string>
+
+</resources>

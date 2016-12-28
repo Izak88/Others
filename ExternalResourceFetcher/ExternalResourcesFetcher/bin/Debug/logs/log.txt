@@ -1,0 +1,82 @@
+2015-02-10 09:35:56.5707 : Service started successfully.
+2015-02-10 09:35:56.7674 : Output folder deleted successfully.
+2015-02-10 09:35:56.7674 : Output folder created successfully.
+2015-02-10 09:35:56.8074 : Parsing from http://www.zzzs.si/ceniki/103143/seznam.txt started.
+2015-02-10 09:35:56.8074 : Parsing from http://www.cbz.si/cbz2/sif22.csv started.
+2015-02-10 09:35:57.1580 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150112-103143-280394.zip started.
+2015-02-10 09:35:57.4373 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150112-103143-280394.zip ended successfully.
+2015-02-10 09:35:57.4373 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150113-103143-281033.zip started.
+2015-02-10 09:35:57.7583 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150113-103143-281033.zip ended successfully.
+2015-02-10 09:35:57.7583 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150113-103143-281037.zip started.
+2015-02-10 09:35:58.0564 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150113-103143-281037.zip ended successfully.
+2015-02-10 09:35:58.0564 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150113-103143-281041.zip started.
+2015-02-10 09:35:58.3898 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150113-103143-281041.zip ended successfully.
+2015-02-10 09:35:58.3898 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150114-103143-281693.zip started.
+2015-02-10 09:35:58.7080 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150114-103143-281693.zip ended successfully.
+2015-02-10 09:35:58.7110 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150114-103143-281697.zip started.
+2015-02-10 09:35:59.0491 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150114-103143-281697.zip ended successfully.
+2015-02-10 09:35:59.0521 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150115-103143-282202.zip started.
+2015-02-10 09:36:00.0015 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150115-103143-282202.zip ended successfully.
+2015-02-10 09:36:00.0055 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150115-103143-282206.zip started.
+2015-02-10 09:36:00.2689 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150115-103143-282206.zip ended successfully.
+2015-02-10 09:36:00.2709 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150121-103143-283450.zip started.
+2015-02-10 09:36:00.6311 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150121-103143-283450.zip ended successfully.
+2015-02-10 09:36:00.6311 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150121-103143-283454.zip started.
+2015-02-10 09:36:00.9286 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150121-103143-283454.zip ended successfully.
+2015-02-10 09:36:00.9286 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150126-103143-285689.zip started.
+2015-02-10 09:36:01.2266 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150126-103143-285689.zip ended successfully.
+2015-02-10 09:36:01.2266 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150126-103143-285693.zip started.
+2015-02-10 09:36:01.6289 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150126-103143-285693.zip ended successfully.
+2015-02-10 09:36:01.6329 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150127-103143-285929.zip started.
+2015-02-10 09:36:02.0443 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150127-103143-285929.zip ended successfully.
+2015-02-10 09:36:02.0443 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150204-103143-292553.zip started.
+2015-02-10 09:36:05.3427 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150204-103143-292553.zip ended successfully.
+2015-02-10 09:36:05.3427 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150205-103143-293592.zip started.
+2015-02-10 09:36:05.5569 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150205-103143-293592.zip ended successfully.
+2015-02-10 09:36:05.5569 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150205-103143-293596.zip started.
+2015-02-10 09:36:05.7907 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150205-103143-293596.zip ended successfully.
+2015-02-10 09:36:05.7907 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150206-103143-294241.zip started.
+2015-02-10 09:36:06.0542 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150206-103143-294241.zip ended successfully.
+2015-02-10 09:36:06.0542 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150206-103143-294245.zip started.
+2015-02-10 09:36:06.3399 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150206-103143-294245.zip ended successfully.
+2015-02-10 09:36:06.3399 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150209-103143-294706.zip started.
+2015-02-10 09:36:06.5372 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150209-103143-294706.zip ended successfully.
+2015-02-10 09:36:06.5372 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150209-103143-294710.zip started.
+2015-02-10 09:36:06.7000 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150209-103143-294710.zip ended successfully.
+2015-02-10 09:36:06.7000 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150210-103143-295295.zip started.
+2015-02-10 09:36:06.9131 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150210-103143-295295.zip ended successfully.
+2015-02-10 09:36:06.9131 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150210-103143-295299.zip started.
+2015-02-10 09:36:07.1717 : Parsing from http://www.zzzs.si/ceniki/103143/CENIK-20150210-103143-295299.zip ended successfully.
+2015-02-10 09:36:07.1717 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282823.zip started.
+2015-02-10 09:36:07.3823 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282823.zip ended successfully.
+2015-02-10 09:36:07.3823 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282827.zip started.
+2015-02-10 09:36:07.6505 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282827.zip ended successfully.
+2015-02-10 09:36:07.6505 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282831.zip started.
+2015-02-10 09:36:07.9938 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282831.zip ended successfully.
+2015-02-10 09:36:07.9938 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282835.zip started.
+2015-02-10 09:36:08.2921 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282835.zip ended successfully.
+2015-02-10 09:36:08.2921 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282839.zip started.
+2015-02-10 09:36:08.5437 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282839.zip ended successfully.
+2015-02-10 09:36:08.5437 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282843.zip started.
+2015-02-10 09:36:08.7735 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282843.zip ended successfully.
+2015-02-10 09:36:08.7735 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282847.zip started.
+2015-02-10 09:36:09.1253 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150119-103143-282847.zip ended successfully.
+2015-02-10 09:36:09.1253 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283973.zip started.
+2015-02-10 09:36:09.4070 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283973.zip ended successfully.
+2015-02-10 09:36:09.4070 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283977.zip started.
+2015-02-10 09:36:09.6958 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283977.zip ended successfully.
+2015-02-10 09:36:09.6958 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283981.zip started.
+2015-02-10 09:36:09.9430 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283981.zip ended successfully.
+2015-02-10 09:36:09.9430 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283985.zip started.
+2015-02-10 09:36:10.1799 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283985.zip ended successfully.
+2015-02-10 09:36:10.1799 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283989.zip started.
+2015-02-10 09:36:10.4454 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283989.zip ended successfully.
+2015-02-10 09:36:10.4454 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283993.zip started.
+2015-02-10 09:36:10.7220 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283993.zip ended successfully.
+2015-02-10 09:36:10.7260 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283997.zip started.
+2015-02-10 09:36:11.0070 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150122-103143-283997.zip ended successfully.
+2015-02-10 09:36:11.0070 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150128-103143-287856.zip started.
+2015-02-10 09:36:11.5373 : Parsing from http://www.zzzs.si/ceniki/103143/CENIKI-20150128-103143-287856.zip ended successfully.
+2015-02-10 09:36:11.5373 : Parsing from http://www.zzzs.si/ceniki/103143/ ended successfully.
+2015-02-10 09:36:11.8549 : Parsing from http://www.cbz.si/cbz2/sif22.csv ended successfully.
+2015-02-10 09:36:11.8549 : All jobs executed successfully.

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/wallpaper" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/button1"
+                style="@style/AppTheme"
+                android:layout_width="92dp"
+                android:layout_height="88dp"
+                android:gravity="center|center_horizontal"
+                android:text="@string/buttonNewGame" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="250dp" >
+
+            <Button
+                android:id="@+id/button3"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="High Scores" />
+
+        </TableRow>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03" >
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="94dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.00"
+                android:text="@string/buttonEndGame" />
+
+        </FrameLayout>
+    </TableLayout>
+
+</LinearLayout>

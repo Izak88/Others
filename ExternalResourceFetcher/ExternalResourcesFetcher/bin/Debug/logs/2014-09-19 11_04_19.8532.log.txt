@@ -1,0 +1,2 @@
+2014-09-19 11:04:19.8532 : Parsing from http://www.example.com/seznam.txt started.
+2014-09-19 11:04:19.8532 : Parsing from http://www.example.si/cbz2/seznam.csv started.

@@ -1,0 +1,1 @@
+2014-09-19 11:19:20.8468 : Parsing from http://www.example.si/cbz2/seznam.csv failed! 

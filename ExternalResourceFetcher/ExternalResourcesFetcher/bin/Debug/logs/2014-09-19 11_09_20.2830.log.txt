@@ -1,0 +1,2 @@
+2014-09-19 11:09:20.2830 : Service started successfully.
+2014-09-19 11:09:20.2830 : Output folder deleted successfully.

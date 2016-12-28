@@ -1,0 +1,15 @@
+2014-09-15 14:28:39,071 [5] DEBUG ExternalResourcesFetcher.ResourceFetcher Service started
+2014-09-15 14:28:39,085 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
+2014-09-15 14:39:33,924 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
+2014-09-15 15:42:41,592 [5] DEBUG ExternalResourcesFetcher.ResourceFetcher Service started
+2014-09-15 15:42:41,599 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
+2014-09-16 07:31:16,216 [5] DEBUG ExternalResourcesFetcher.ResourceFetcher Service started
+2014-09-16 07:31:16,222 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
+2014-09-16 07:31:28,623 [5] DEBUG ExternalResourcesFetcher.ResourceFetcher Service started
+2014-09-16 07:31:28,629 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
+2014-09-16 07:31:55,305 [5] DEBUG ExternalResourcesFetcher.ResourceFetcher Service started
+2014-09-16 07:31:55,311 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
+2014-09-16 07:32:20,527 [5] DEBUG ExternalResourcesFetcher.ResourceFetcher Service started
+2014-09-16 07:32:20,533 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
+2014-09-16 07:32:57,864 [5] DEBUG ExternalResourcesFetcher.ResourceFetcher Service started
+2014-09-16 07:32:57,870 [5] ERROR ExternalResourcesFetcher.ResourceFetcher Error!
